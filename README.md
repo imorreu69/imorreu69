@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ---
 
- A Marca do Sacrifício (Sobre Mim)
 
 Sofrendo pra aprender o básico de qualquer linguagem(mas com muita disposição!!!)
 
