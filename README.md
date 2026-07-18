@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
- <img src="https://media.tenor.com/yhe9Ju4v77YAAAAC/berserk-guts.gif" alt="Berserk Guts" width="600"/>
+<img src="https://media.tenor.com/Z3vFfV1p748AAAAC/vagabond-musashi.gif" alt="Manga Aesthetic" width="600"/>
 </p>
 
 
