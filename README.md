@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 Sofrendo pra aprender o básico de qualquer linguagem(mas com muita disposição!!!)
 
-*   Trabalhando atualmente com: Desenvolvimento web [JavaScript / Front-end].
+*   Trabalhando atualmente com: Desenvolvimento web [JavaScript / NODE JS].
 *   Com vontade de aprender CyberSegurança e DeepLearning
 
 ---
