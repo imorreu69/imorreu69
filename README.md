@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
  A Marca do Sacrifício (Sobre Mim)
 
-Forjando meu próprio caminho no desenvolvimento de software. Assim como um espadachim negro escalando montanhas íngremes em um mundo hostil, sigo enfrentando bugs complexos e dominando novas ferramentas a cada eclipse.
+Sofrendo pra aprender o básico de qualquer linguagem(mas com muita disposição!!!)
 
 *   Trabalhando atualmente com: Desenvolvimento web [JavaScript / Front-end].
 *   Com vontade de aprender CyberSegurança e DeepLearning
