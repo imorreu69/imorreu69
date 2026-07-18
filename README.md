@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  <img src="[https://media.tenor.com/yhe9Ju4v77YAAAAC/berserk-guts.gif](https://media1.tenor.com/m/MYi-rrKKPVwAAAAC/guts-sad.gif)" alt="Berserk Guts" width="600"/>
+  <img src="(https://media1.tenor.com/m/MYi-rrKKPVwAAAAC/guts-sad.gif)" alt="Berserk Guts" width="600"/>
 </p>
 
 > "Neste mundo, o destino da humanidade é controlado por alguma entidade ou lei transcendental? Como a Mão de Deus pairando acima? Pelo menos, é verdade que o homem não tem controle nem sobre sua própria vontade." — *Kentaro Miura*
