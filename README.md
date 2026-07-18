@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-<img src="https://media.tenor.com/Z3vFfV1p748AAAAC/vagabond-musashi.gif" alt="Manga Aesthetic" width="600"/>
+<img src="(https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)" alt="Manga Aesthetic" width="600"/>
 </p>
 
 
