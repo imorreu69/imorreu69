@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚔️ A Marca do Sacrifício (Sobre Mim)
+ A Marca do Sacrifício (Sobre Mim)
 
 Forjando meu próprio caminho no desenvolvimento de software. Assim como um espadachim negro escalando montanhas íngremes em um mundo hostil, sigo enfrentando bugs complexos e dominando novas ferramentas a cada eclipse.
 
-*   🏔️ **Jornada Atual:** Estudando desenvolvimento web, focado em dominar o caos do ecossistema [JavaScript / Front-end].
-*   🌌 **Filosofia de Código:** "Mesmo que o céu desabe e a terra se parta, o código precisa compilar."
-*   🪵 **Refúgio:** Quando não estou codando, estou limpando a mente com paisagens isoladas ou boas histórias de fantasia dark.
+*   Trabalhando atualmente com: Desenvolvimento web [JavaScript / Front-end].
+*   Com vontade de aprender CyberSegurança e DeepLearning
 
 ---
 
